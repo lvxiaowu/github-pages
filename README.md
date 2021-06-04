@@ -26,6 +26,6 @@
 
 > 这里使用 Actions 市场中的[GitHub Pages v3](https://github.com/marketplace/actions/github-pages-v3) 插件
 
-1. 账户全局创建权限 ACCESS_TOKEN，账号 /settings/profile
+1. 账户全局创建权限 ACCESS_TOKEN（配置路径 /settings/Developer settings）
 
-[https://github.com/lvxiaowu/github-pages](https://github.com/lvxiaowu/github-pages)
+[https://lvxiaowu.github.io/github-pages](https://lvxiaowu.github.io/github-pages)
