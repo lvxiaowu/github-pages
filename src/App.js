@@ -6,7 +6,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>github pages</p>
+        <p>github pages 12345</p>
         <p>
           Edit <code>src/App.js</code> and save to reload
         </p>
